@@ -1,4 +1,4 @@
-# instagram_series
+# Instagram-App
 
 A new Flutter project.
 
